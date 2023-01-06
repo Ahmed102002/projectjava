@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name"></string>
+    <string-array name ="Edit">
+        <item>Select Edit </item>
+        <item>Hydraulic </item>
+        <item>Sport Rims</item>
+        <item>Turbo </item>
+        <item>Famih </item>
+        <item>Cars Lights</item>
+        <item>Structure Change</item>
+    </string-array>
+</resources>
